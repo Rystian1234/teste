@@ -1,0 +1,35 @@
+body{
+    background-color: yellow;
+}
+
+.VOCESABE{
+    border: solid black;
+    text-align: center;
+}
+
+.img{
+    width: 1500px;
+}
+
+.img1{
+    width: 600px;
+}
+
+.img2{
+    width: 700px;
+    height: 260px;
+    margin-left: 200px;
+}
+
+.img3{
+    width: 600px;
+    height: 100%;
+}
+
+.pe p{
+   margin-left: 200px; 
+}
+
+.MOLO{
+    text-align: center;
+}
